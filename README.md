@@ -77,10 +77,3 @@ Scikit-Learn
 
 Jupyter Notebook
 
-
-Implement other clustering algorithms such as DBSCAN or hierarchical clustering.
-
-Explore feature engineering to enhance model interpretability.
-
-📄 License
-This project is licensed under the MIT License. See the LICENSE file for details.
